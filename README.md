@@ -48,6 +48,7 @@ $ npm run start:prod
 ## Test
 
 ```bash
+<<<<<<< Updated upstream
 # unit tests
 $ npm run test
 
@@ -56,6 +57,9 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+=======
+/docs
+>>>>>>> Stashed changes
 ```
 
 ## Support
